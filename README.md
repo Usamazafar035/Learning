@@ -1,3 +1,3 @@
-# Learning
+# Learning 
 Machine Learning AI & Data Science
-Python, SQL, Pandas, Numpy, Matplotlib, Scikit-learn
+Python,Pandas, Numpy, Matplotlib, Scikit-learn
